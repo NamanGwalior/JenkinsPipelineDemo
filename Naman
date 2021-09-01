@@ -1,0 +1,12 @@
+pipeline {
+ agent any {
+ 
+   Stages{
+   
+    Stage ('Naman')
+      { 
+          echo 'Naman Jain'
+               }
+               }
+               }
+               }
